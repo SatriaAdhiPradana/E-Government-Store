@@ -9,3 +9,5 @@ Components are collectively built by the government community, meet accessibilit
 Port of https://github.com/SatriaAdhiPradana
 
 Update Government Code Collection https://github.com/SatriaAdhiPradana/E-Government-Store
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=SatriaAdhiPradana) 
